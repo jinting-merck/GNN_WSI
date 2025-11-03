@@ -97,8 +97,3 @@ This project is designed for:
 
 
 
-For detailed documentation on specific components:
-- **Graph-balanced splits**: See `pan_cancer/README_GRAPH_BALANCED.md`
-- **Graph construction**: See `step0_prepare_graphs/fixed_coordinates.py` docstrings
-- **Model architecture**: See `others/cancer_gnn_model.py`
-
